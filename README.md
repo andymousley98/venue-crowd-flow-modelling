@@ -87,6 +87,10 @@ The repository contains two Python scripts:
 
 Open and run the scripts using a Python environment such as Spyder, with any required dependencies installed.
 
+## Scenario Visualisation
+
+![Event ingress simulation results](images/ingress_comparison.png)
+
 ## Conclusion
 
 The case study demonstrates how relatively simple simulation models can help identify potential queue bottlenecks and compare the effectiveness of operational changes before an event takes place.
